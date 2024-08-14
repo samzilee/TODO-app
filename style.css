@@ -34,6 +34,7 @@
   color: rgb(68, 168, 168);
   font-weight: bold;
   padding-left: 10px;
+  outline: none;
 }
 #time {
   /* width: 100px; */
@@ -45,6 +46,7 @@
   font-weight: bold;
   cursor: pointer;
   padding-left: 10px;
+  outline: none;
 }
 
 #todoText:hover,
