@@ -8,6 +8,7 @@
   padding: 0px 15px;
   height: 100vh;
   background-color: rgb(34, 87, 87);
+  width: 100%;
 }
 #redZone {
   min-height: 16px;
@@ -17,6 +18,10 @@
   font-weight: bold;
   border: solid;
   border-radius: 5px;
+}
+.input-holder {
+  display: flex;
+  column-gap: 10px;
 }
 #todoText {
   width: 200px;
